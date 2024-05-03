@@ -116,8 +116,8 @@ a {
 }
 
 .gallery__img-wrapper + .gallery__img-wrapper{
-    margin-left: 2rem;
-    margin-top: 2rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
 }
 
 .gallery__img-wrapper:nth-child(even) > .gallery__img {
